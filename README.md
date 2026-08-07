@@ -38,7 +38,28 @@
 * **Расширение:** Установлен один системный слот NemoBus для подключения современных периферийных устройств (DivMMC, BDI, PiCard, ZXKM, GeneralSound, ZX-Multisound и др.).
 * **RIZER:** Также возможно расширение через Rizer до 4-х устройств
 
-## 📁 Структура репозитория / Repository Structure
+В результате на свет появился PentoGraf  [iBOM 1.01](Export/PentoGraf_1.01.html)   [Схема](Export/PentoGraf_1.01.pdf)   [Gerber](Gerber/PentoGraf_1.01_gerber.zip)  
+  
+![](Foto/PentoGraf.jpg)  
+  
+![](Foto/PentoGraf-3.jpg)  
+  
+Так целая серия Rizer(ёлок) [iBOM х4](Export/Rizer.html)  [Схема](Export/Rizer.pdf)  
+
+[RIZER x4](Gerber/RIZER x4 Nemobus Pent_gerber.zip)  
+[RIZER x3](Gerber/RIZER x3 Nemobus Pent_gerber.zip)  
+[RIZER x2](Gerber/RIZER x2 Nemobus Pent_gerber.zip)  
+[RIZER x1](Gerber/RIZER x1 Nemobus Pent_gerber.zip)  
+
+![](Foto/RIZER x4 Nemobus Pent.jpg)  
+  
+![](Foto/RIZER x3 Nemobus Pent.jpg)  
+  
+![](Foto/RIZER x2 Nemobus Pent.jpg)  
+  
+![](Foto/RIZER x1 Nemobus Pent.jpg)  
+  
+## ⚖️ Лицензия / License
 
 
 Этот проект является открытым аппаратным обеспечением (Open Source Hardware). Графические материалы, схемы и топология печатной платы распространяются под лицензией **CERN OHL v2 Weak Reciprocal** (CERN-OHL-W-2.0).
