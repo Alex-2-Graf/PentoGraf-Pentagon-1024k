@@ -19,6 +19,7 @@
 Это сделало Пентагон мировым эталоном для создания сложнейших графических и музыкальных демо (Demoscene).  
 До сих пор 99% всех графических эффектов и мультиколоров на постсоветском пространстве пишутся строго под архитектуру Пентагона.
   
+   
 Многие предлагали просто переделать тайминги под Пентагон на Авроре.  
 Но тогда это будет уже не Ленинград2, но ещё не Пентагон.  
 Был выбран другой путь.  
@@ -38,13 +39,13 @@
 * **Расширение:** Установлен один системный слот NemoBus для подключения современных периферийных устройств (DivMMC, BDI, PiCard, ZXKM, GeneralSound, ZX-Multisound и др.).
 * **RIZER:** Также возможно расширение через Rizer до 4-х устройств
 
-В результате на свет появился PentoGraf  [iBOM 1.01](Export/PentoGraf_1.01.html)   [Схема](Export/PentoGraf_1.01.pdf)   [Gerber](Gerber/PentoGraf_1.01_gerber.zip)  
+## В результате на свет появился PentoGraf  [iBOM 1.01](Export/PentoGraf_1.01.html)   [Схема](Export/PentoGraf_1.01.pdf)   [Gerber](Gerber/PentoGraf_1.01_gerber.zip)  
   
 ![](Foto/PentoGraf.jpg)  
   
 ![](Foto/PentoGraf-3.jpg)  
   
-Так же целая серия ёлок [iBOM х4](Export/Rizer.html)  [Схема](Export/Rizer.pdf)  
+## Так же целая серия ёлок [iBOM х4](Export/Rizer.html)  [Схема](Export/Rizer.pdf)  
   
 [RIZER x4](Gerber/RIZER_x4_Nemobus_Pent_gerber.zip)  
 [RIZER x3](Gerber/RIZER_x3_Nemobus_Pent_gerber.zip)  
@@ -59,6 +60,12 @@
   
 ![](Foto/RIZER_x1_Nemobus_Pent.jpg)  
   
+## Так же предусмотрено использование памяти в корпусах SOP через переходник [Gerber](Gerber/SRAM-PentoGraf_Gerber.zip)  
+  
+![](Foto/SRAM-PentoGraf.png)  
+  
+
+
 ## ⚖️ Лицензия / License
 
 
