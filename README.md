@@ -46,18 +46,18 @@
   
 Так же целая серия ёлок [iBOM х4](Export/Rizer.html)  [Схема](Export/Rizer.pdf)  
   
-[RIZER x4](Gerber/RIZER x4 Nemobus Pent_gerber.zip)  
-[RIZER x3](Gerber/RIZER x3 Nemobus Pent_gerber.zip)  
-[RIZER x2](Gerber/RIZER x2 Nemobus Pent_gerber.zip)  
-[RIZER x1](Gerber/RIZER x1 Nemobus Pent_gerber.zip)  
+[RIZER x4](Gerber/RIZER_x4_Nemobus_Pent_gerber.zip)  
+[RIZER x3](Gerber/RIZER_x3_Nemobus_Pent_gerber.zip)  
+[RIZER x2](Gerber/RIZER_x2_Nemobus_Pent_gerber.zip)  
+[RIZER x1](Gerber/RIZER_x1_Nemobus_Pent_gerber.zip)  
 
-![](Foto/RIZER x4 Nemobus Pent.jpg)  
+![](Foto/RIZER_x4_Nemobus_Pent.jpg)  
   
-![](Foto/RIZER x3 Nemobus Pent.jpg)  
+![](Foto/RIZER_x3_Nemobus_Pent.jpg)  
   
-![](Foto/RIZER x2 Nemobus Pent.jpg)  
+![](Foto/RIZER_x2_Nemobus_Pent.jpg)  
   
-![](Foto/RIZER x1 Nemobus Pent.jpg)  
+![](Foto/RIZER_x1_Nemobus_Pent.jpg)  
   
 ## ⚖️ Лицензия / License
 
