@@ -64,10 +64,10 @@ Generally, assembly and tuning do not cause any major issues. However, let's cla
 * **J18:** This jumper is required when using the **W27C512 ROM**.
 
 ### 💾 ROM / Firmware
-* ROM files for the project can be found [here](./Firmware).
+* ROM files for the project can be found [here](ROM).
 
 ### 📺 VGA Output
-* Firmware and configuration settings for the RP2040-Zero can be found [here](./VGA).
+* Firmware and configuration settings for the RP2040-Zero can be found [here](VGA).
 
 ---
 
