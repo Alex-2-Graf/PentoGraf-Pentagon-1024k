@@ -2,7 +2,5 @@
 
 Pentagon ZX Spectrum clone on SRAM with TurboSound and NemoBus in Leningrad-2 (Aurora) form-factor.
 
-
-
-> \[English](README.en.md) | \[Русский](README.md)  
+> [English](README.en.md) | [Русский](README.md)
 
