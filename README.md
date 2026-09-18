@@ -79,7 +79,9 @@
   
 ---
 
-## Как упоминалось выше можно использовать клавиатуру от Авроры [Leningrad-2-128k-SRAM](https://github.com/Alex-2-Graf/Leningrad-2-128k-SRAM)  
+## Клавиатура  
+  
+Как упоминалось выше можно использовать клавиатуру от Авроры [Leningrad-2-128k-SRAM](https://github.com/Alex-2-Graf/Leningrad-2-128k-SRAM)  
   
 ![](Foto/L2-40Key-2.jpg)  
   
