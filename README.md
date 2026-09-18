@@ -83,6 +83,18 @@
 
 ---
 
+## Корпус
+
+Наш коллега EvilUnyuu любезно предоставил файлы для печати корпуса. [ТУТ](Export/Evil_Case_for_PentoGraf_v0.zip)
+  
+![](Foto/Case/19-finished.jpg)  
+  
+![](Foto/Case/19-finished.jpg)  
+
+Напомню, что корпус отлично подойдёт и для Авроры [Leningrad-2-128k-SRAM](https://github.com/Alex-2-Graf/Leningrad-2-128k-SRAM) и для [Leningrad-2-48k](https://github.com/Alex-2-Graf/LENINGRAD-2-48k)  
+  
+---
+
 ## Сборка  
   
 Как правило, сборка и наладка проблем не вызывают.  
