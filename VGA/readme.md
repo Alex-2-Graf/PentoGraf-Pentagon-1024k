@@ -1,6 +1,6 @@
 # Файл прошивки конвертера RGB-VGA/HDMI  
   
-Прошивка [0.3.3](RGB2_VGA_HDMI_v0.3.2_ZERO.UF2) или [0.3.6](rpipico_BOARD_36LJU22___RGB2_VGA_HDMI_v0.3.6.UF2)  
+Прошивка [0.3.2](RGB2_VGA_HDMI_v0.3.2_ZERO.UF2), [0.3.3](RGB2_VGA_HDMI_v0.3.3_1.UF2) или [0.3.6](RGB2_VGA_HDMI_v0.3.6.UF2)  
   
 ## Скриншоты правильной установки параметров захвата  
   
