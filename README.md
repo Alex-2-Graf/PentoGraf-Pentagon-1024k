@@ -85,6 +85,11 @@
   
 ![](Foto/L2-40Key-2.jpg)  
   
+  
+Либо такую же родную.  [40Key-slim](Gerber/PG-40Key-slim_gerber.zip)  
+  
+![](Foto/PG-40Key-Slim.png)  
+  
 ---
 
 ## Корпус
